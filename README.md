@@ -1,5 +1,5 @@
 
-<h2>Here are the tasks </h2>
+
 Using pen & paper, add element stiffness matrix KE to global system
 stiffness matrix KS at global degrees of freedom (DOFs) given by L2G.
 
